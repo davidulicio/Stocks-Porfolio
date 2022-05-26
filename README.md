@@ -6,7 +6,7 @@ To run this script you must have all the following packages installed:
 Datetime, numpy and pandas_datareader
 
 If you are using Anaconda you will just need to install the pandas-datareader 
-package, using the command conda install pandas-datareader on the Anaconda 
+package, using the command < conda install pandas-datareader > on the Anaconda 
 Prompt. 
 
 
